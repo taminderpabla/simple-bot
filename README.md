@@ -9,12 +9,10 @@ Quick little project to apply basic Java skills such as:
 - basic syntax  
 - invoking methods
 - loops
-***
 
 ## Requirements
 
 Requires no specification.
-***
 ## Running From Command Line
 ### SimpleBot Execution
 Basic operations of the Bot includes:
@@ -39,4 +37,3 @@ _**Figure 1:** SimpleBot running from Terminal on MacBookAir-M1_
 ```
     % java SimpleBot
 ```
-***

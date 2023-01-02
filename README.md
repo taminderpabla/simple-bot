@@ -3,7 +3,6 @@
 ![Build Date](https://img.shields.io/badge/buildDate-July2022-brightgreen.svg)
 ![Learning Java](https://img.shields.io/badge/learning-Java-red.svg)
 [![Repo Link](https://img.shields.io/badge/repo-SimpleBot-black.svg)](https://github.com/taminderpabla/simple-bot)
-![Language Used](https://img.shields.io/github/languages/top/taminderpabla/simple-bot)
 
 Quick little project to apply basic Java skills such as:
 - basic syntax  

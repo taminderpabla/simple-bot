@@ -1,8 +1,8 @@
 # Simple Bot
 [![Author](https://img.shields.io/badge/author-taminderpabla-9cf.svg)](https://github.com/taminderpabla)
-![Build Date](https://img.shields.io/badge/buildDate-July2022-brightgreen.svg)
+![Build Date](https://img.shields.io/badge/build_date-July2022-brightgreen.svg)
 ![Learning Java](https://img.shields.io/badge/learning-Java-red.svg)
-[![Repo Link](https://img.shields.io/badge/repo-SimpleBot-black.svg)](https://github.com/taminderpabla/simple-bot)
+[![Repo Link](https://img.shields.io/badge/repo-SimpleBot-lightgrey.svg)](https://github.com/taminderpabla/simple-bot)
 
 Quick little project to apply basic Java skills such as:
 - basic syntax  
@@ -23,7 +23,7 @@ Basic operations of the Bot includes:
 
 ![input_image](images/test_terminal.png)
 _**Figure 1:** SimpleBot running from Terminal on MacBookAir-M1_
-### Execution Procedure:
+### Execution Procedure
 1. Clone the repository (shown using SSH):
 ```
     $ git clone git@github.com:taminderpabla/simple-bot.git
